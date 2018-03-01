@@ -92,3 +92,28 @@ font-size: 0;
 	color:#F15B31;
 	font-weight: 700;
 }
+
+.score{
+	background-color:#F15B31;
+	color:white;
+	padding:10px 20px;
+	margin-top:20px;
+}
+#game_message{
+	width:30%;
+	float:left;
+	text-align: left;
+}
+
+.score_table{
+	width:30%;
+	float:right;
+	text-align: right;
+}
+
+button{
+	padding:10px 40px;
+	font-size:20px;
+	background:#0d2c40;
+	color:white;
+}
